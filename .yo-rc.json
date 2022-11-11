@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "accordianforfunction",
+    "libraryId": "b707b976-d074-407e-b443-3457ed74b811",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "accordianforfunction",
+    "solutionShortDescription": "accordianforfunction description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

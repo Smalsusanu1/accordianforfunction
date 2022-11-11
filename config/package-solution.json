@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "accordianforfunction-client-side-solution",
+    "id": "b707b976-d074-407e-b443-3457ed74b811",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "accordianforfunction description"
+      },
+      "longDescription": {
+        "default": "accordianforfunction description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "accordianforfunction Feature",
+        "description": "The feature that activates elements of the accordianforfunction solution.",
+        "id": "62829643-2d35-4fc4-8570-d40d801058cd",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/accordianforfunction.sppkg"
+  }
+}
